@@ -1,6 +1,6 @@
 # My Personal Website
 
-# View it [HERE](https://sudowrestle.github.io/personal_web/)
+# View it [HERE](https://eanth.github.io/personal_web/)
 
 ![Personal Site Preview](/assets/images/site_preview.png)
 
