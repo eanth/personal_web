@@ -1,5 +1,10 @@
+@font-face { 
+    font-family: Sometype; 
+	src: url('../fonts/SometypeMono-VariableFont_wght.ttf'); 
+}
+
 * {
-    font-family:"Quicksand", sans-serif;
+    font-family:"Sometype", sans-serif;
     margin: 0;
 }
 
