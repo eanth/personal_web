@@ -46,8 +46,9 @@ document.addEventListener('DOMContentLoaded', () => {
     
 
     // fills footer text
-    document.querySelector("#footer h3").innerHTML="&#169 Anthony Elia " + currYearNow;
-    document.querySelector("#alt-footer h1").innerHTML="&#169 Anthony Elia " + currYearNow;
+      document.querySelector("#footer h3").innerHTML="&#169 Anthony Elia " + currYearNow;
+    //document.querySelector("#footer h3").innerHTML="&#169 Anthony Elia " + currYearNow;
+    //document.querySelector("#alt-footer h1").innerHTML="&#169 Anthony Elia " + currYearNow;
 
 });
 
